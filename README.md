@@ -1,4 +1,4 @@
-# CandyFloss App
+# CandyFloss: App
 
 ## Build Setup
 
